@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Rounak's Restaurant",
+    "desc": "Created this using HTML, CSS, JavaScript, and Bootstrap.",
+    "image": "restaurant",
+    "category": "projects",
+    "links": {
+      "view": "https://rounak10x.github.io/RounaksRestaurant/"
+    }
+   },
+  {
+    "name": "Swimpool",
+    "desc": "Created this using HTML, CSS, JavaScript, and Bootstrap.",
+    "image": "swimpool",
+    "category": "projects",
+    "links": {
+      "view": "https://rounak10x.github.io/swimpool/"
+    }
+   },
+   {
+    "name": "AmazonClone",
+    "desc": "Created this using HTML, CSS",
+    "image": "amazon",
+    "category": "projects",
+    "links": {
+      "view": "https://rounak10x.github.io/AmazonClone/"
+    }
+   },
+   {
+    "name": "Neon Portfolio",
+    "desc": "Created this using HTML, CSS, JavaScript",
+    "image": "neon",
+    "category": "projects",
+    "links": {
+      "view": "https://rounak10x.github.io/neonportfolio/"
+    }
+   },
+
+  {
+  "name": "Calculator",
+  "desc": "Created this using HTML, CSS, JavaScript.",
+  "image": "calculator",
+  "category": "projects",
+  "links": {
+    "view": "https://rounak10x.github.io/Calculator/"
+  }
+ },
+ 
+  {
+    "name": "Sun Tracking solar panel system",
+    "desc": "To Utilize the maximum of solar energy thrughout the whole day.",
+    "image": "suntrackerr",
+    "category": "projects",
+    "links": {
+      "view": "https://drive.google.com/file/d/1GUDq8kFYVsNtZYkfqMe7Zy1lB579oFux/view?usp=drive_link"
+    }
+  },
+
+  {
+    "name": "Java & Web Programming",
+    "desc": "Fundamentals of Java and Web Programming, 421 hours in duration, completed in March 2024 with a Grade of 'A1'.",
+    "image": "java",
+    "category": "trainings",
+    "links": {
+      "view": "https://drive.google.com/file/d/1mdt5DxWXtX8Ze9XrzeEN0cRV-sP97OcW/view?usp=drive_link"
+    }
+  },
+
+  {
+    "name": "workshop on Virtual Lab",
+    "desc": "One-day onsite workshop on Virtual Lab, conducted on 29-03-2023 by the outreach team of the Indian Institute of Technology (IIT) Kharagpur.",
+    "image": "matlab",
+    "category": "trainings",
+    "links": {
+      "view": "https://drive.google.com/file/d/1mdOzmUBrQ-pG0ZJThPcYjjjgmbxB4B5L/view?usp=drive_link"
+    }
+  },
+
+  {
+    "name": "Industrial Training",
+    "desc": "It's a 15-day industrial training program at Mejia Thermal Power Plant.",
+    "image": "dvc",
+    "category": "trainings",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1sCHlytyltBEOZN8N5V_M6Uz0TvCENKj_?usp=drive_link"
+    }
+  }
+
+ 
+ 
+  
+  
+]
